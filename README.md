@@ -27,7 +27,7 @@
 🔗 **GitHub Repo:** https://github.com/your-repo-link
 📊 **Dashboard Preview:**
 
-![Dashboard](add-your-screenshot.png)
+![Dashboard](dashboard.png)
 
 ---
 
