@@ -24,7 +24,7 @@
 * Performed **data cleaning and exploratory analysis using Python**
 * Designed a **business-focused dashboard** for decision-making
 
-🔗 **GitHub Repo:** https://github.com/your-repo-link
+🔗 GitHub Repo: https://github.com/Dhilipan-max-dot/superstore-sales-dashboard
 📊 **Dashboard Preview:**
 
 ![Dashboard](dashboard.png)
